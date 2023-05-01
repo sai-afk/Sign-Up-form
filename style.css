@@ -37,16 +37,16 @@
   align-items: center;
   justify-content: center;
   width: 50%;
-  margin-left: 30%;
+  margin-left: 29%;
   margin-right: auto;
   position: absolute; 
-  top: 50%;
+  top: 55%;
   transform:translateY(-50%); 
 }
 
 form {
   background-color: bisque;
-  width: 100%;
+  width: 220%;
   margin: 15px 0;
   padding: 10px;
   display: flex;
@@ -90,8 +90,7 @@ input[type="submit"]:hover {
 
 .submit-btn {
   display: flex;
-  /* justify-content: center; */
-  margin-top: 15px;
+  margin-top: 5px;
 }
 
 
